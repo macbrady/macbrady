@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @macbrady
-- 👀 I’m interested in swarm
-- 🌱 I’m currently learning swarm
+- 👀 I’m interested in XXX
+- 🌱 I’m currently learning XXX
 - 💞️ I’m looking to collaborate on XXX😜
 - 📫 How to reach me ...
 
