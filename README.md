@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @macbrady
-- 👀 I’m interested in XXX
-- 🌱 I’m currently learning XXX
-- 💞️ I’m looking to collaborate on XXX😜
+- 👀 I’m interested in decentraland
+- 🌱 I’m currently learning 😜
+- 💞️ I’m looking to collaborate on
 - 📫 How to reach me ...
 
 <!---
